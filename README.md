@@ -1,4 +1,4 @@
-# Proyecto 1: Servidor Web con Stack LAMP y WordPress
+# Servidor Web con Stack LAMP y WordPress
 
 ## 1. Descripción del Proyecto
 
